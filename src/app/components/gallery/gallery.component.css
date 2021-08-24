@@ -1,0 +1,4 @@
+.gallery-container {
+    height: inherit;
+    overflow: auto;
+}

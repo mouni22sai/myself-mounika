@@ -1,0 +1,65 @@
+.app-header {
+    height: 30%;
+}
+
+.app-footer {
+    background-color: #05386B;
+    height: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: inherit;
+}
+
+.app-body {
+    height: 65%;
+}
+
+.app-container {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.header-toolbar {
+    height: 100%;
+    background-color: #5CDB95;
+}
+
+.toolbar-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: inherit;
+    height: inherit;
+}
+
+.toolbar-title {
+    font-size : xxx-large;
+    color: #05386B;
+    height: 70%;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+
+.toolbar-list {
+    width: 700px;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header-toolbar-buttons {
+    color : #05386B;
+    background-color: #5CDB95;
+}
+
+.social-media-icons {
+    margin: 10px;
+    cursor: pointer;
+}
+
